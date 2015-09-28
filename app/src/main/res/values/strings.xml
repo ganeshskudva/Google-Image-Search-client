@@ -1,0 +1,47 @@
+<resources>
+    <string name="app_name">Google Image Search!!!</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="search">Search</string>
+    <string name="ImageSize">Image Size</string>
+    <string name="ColorFilter">Color Filter</string>
+    <string name="ImageType">Image Type</string>
+    <string name="SiteFilter">Site Filter</string>
+
+    <string-array name="image_size">
+        <item>any</item>
+        <item>small</item>
+        <item>medium</item>
+        <item>large</item>
+        <item>huge</item>
+
+    </string-array>
+
+    <string-array name="image_type">
+        <item>any</item>
+        <item>jpg</item>
+        <item>png</item>
+        <item>gif</item>
+        <item>bmp</item>
+
+    </string-array>
+
+    <string-array name="color_filter">
+        <item>any</item>
+        <item>black</item>
+        <item>brown</item>
+        <item>blue</item>
+        <item>gray</item>
+        <item>green</item>
+        <item>orange</item>
+        <item>pink</item>
+        <item>purple</item>
+        <item>red</item>
+        <item>teal</item>
+        <item>white</item>
+        <item>yellow</item>
+
+    </string-array>
+    <string name="title_activity_gimage_search_full_screen">GImageSearchFullScreen</string>
+</resources>
